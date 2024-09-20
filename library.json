@@ -1,0 +1,17 @@
+{
+  "name" : "DebugRS",
+  "version" : "0.0.1",
+  "description" : "DebugRS",
+  "keywords" : "esp8266, AVR, arduino, esp32",
+  "repository" :
+  {
+    "type" : "git",
+    "url" : "https://github.com/pup22/DebugRS"
+  },
+  "dependencies" :
+  {
+    "external-repo" : ""
+  },
+  "frameworks" : "arduino",
+  "platforms" : "*"
+}
