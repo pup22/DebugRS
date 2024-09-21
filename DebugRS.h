@@ -1,4 +1,6 @@
 #pragma once
+#ifndef DEBUG_RS_H
+#define DEBUG_RS_H
 
 #include <Arduino.h>
 
@@ -28,3 +30,5 @@
 #define START_TIME_SENSOR_MS
 #define STOP_TIME_SENSOR_MS
 #endif
+
+#endif // DEBUG_RS_H
